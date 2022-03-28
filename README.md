@@ -7,4 +7,4 @@ I'm a web designer, good at UI design. I  know Html ,CSS, JavaScript.  I have an
 kadir12386/kadir12386 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![kadir12386 GitHub stats](https://github-readme-stats.vercel.app/api?username=kadir12386&hide=contribs,prs)
+![kadir12386 GitHub stats](https://github-readme-stats.vercel.app/api?username=kadir12386&theme=radical)
