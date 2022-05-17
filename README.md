@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Github Stats for repos -->
 <!-- ![kadir12386 GitHub Stats](https://github-readme-stats.vercel.app/api?username=kadir12386&theme=dark&show_icons=true&count_private=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir12386&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir12386&theme=dark) -->
